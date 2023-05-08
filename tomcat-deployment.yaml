@@ -7,7 +7,7 @@ metadata:
 spec:
   containers:
   - name: nginx
-    image: 82997655633.dkr.ecr.eu-west-3.amazonaws.com/gowryee
+    image: 882997655633.dkr.ecr.eu-west-3.amazonaws.com/gowryee
     ports:
     - containerPort: 8080
 
