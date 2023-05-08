@@ -7,7 +7,7 @@ metadata:
 spec:
   containers:
   - name: nginx
-    image: 477099163803.dkr.ecr.ap-south-1.amazonaws.com/jenkins_project
+    image: 82997655633.dkr.ecr.eu-west-3.amazonaws.com/gowryee:latest
     ports:
     - containerPort: 8080
 
